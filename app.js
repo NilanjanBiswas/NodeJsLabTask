@@ -26,6 +26,6 @@ app.use('/Employee/MyProfile',myProfile);
 app.use('/Employee/UpdateProfile',updateProfile);
 
 
-app.listen(58822,function(){
-  console.log('express http server started at ....58822');
+app.listen(3000,function(){
+  console.log('express http server started at ....3000');
 })
